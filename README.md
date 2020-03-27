@@ -37,8 +37,7 @@ We expect you to:
 You are free to use any deep learning framework although PyTorch is preferable.
 
 
+## Submission
 
-
-```python
-
-```
+To submit, fork this repository, finish and push your notebook on the forked repository then perform a pull request to this repository.
+Deadline for the submission is Monday, 27 March 2020 11:59 PM.
