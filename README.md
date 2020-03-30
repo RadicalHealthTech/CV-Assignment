@@ -29,7 +29,7 @@ We expect you to:
 -> **Perform EDA on the data**  
 -> **Write relevant data loaders**  
 -> **Implement the model from scratch**  
--> **Perform hyperparameter optimization**
+-> **Perform hyperparameter optimization**   
 -> **Explain what the model is learning (check out the authors explainability procedure)**  
 -> **Criticize the paper explaining it's drawbacks**  
 -> **Suggest alternatives / improvements to the model**  
